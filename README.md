@@ -20,9 +20,10 @@ A browser extension that detects and filters low-quality LinkedIn posts using AI
 ## Usage
 
 1. Navigate to LinkedIn
-2. The extension will automatically analyze posts as you scroll
-3. Low-quality posts will be filtered or marked
-4. Use the extension popup to adjust settings
+2. Click on the extension icon in the top bar and paste in an open ai key
+3. The extension will automatically analyze posts as you scroll
+4. Low-quality posts will be filtered or marked
+5. Use the extension popup to adjust settings
 
 ## Files
 
